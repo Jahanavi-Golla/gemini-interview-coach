@@ -1,0 +1,8 @@
+{
+  "name": "Real-Time Interview Coach",
+  "description": "A real-time AI interview coach that provides dynamic questioning and live communication feedback using video and audio streaming.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
